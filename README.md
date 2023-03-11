@@ -1,2 +1,2 @@
 # rust-wasm-docker-hello-world
-Hello world App to showcase how to compile rust app to wasm and then deploy it as webapp and docker. You can read the story on medium.
+Hello world App to showcase how to compile rust app to wasm and then deploy it as webapp and docker. You can read the story here - https://paras301.medium.com/webassembly-docker-integration-1966b264e366
